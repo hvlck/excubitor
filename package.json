@@ -1,6 +1,6 @@
 {
     "name": "excubitor",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "type": "module",
     "description": "extremely minimal immutability and write-only-once library for the web",
     "main": "dist/index.js",
